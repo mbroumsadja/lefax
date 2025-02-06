@@ -1,0 +1,204 @@
+{
+    "qcm": [
+        {
+            "question": "In the sentence 'She gave herself a pat on the back', what type of pronoun is 'herself'?",
+            "options": [
+                "Personal pronoun",
+                "Reflexive pronoun",
+                "Possessive pronoun",
+                "Demonstrative pronoun"
+            ],
+            "reponse_correcte": "Reflexive pronoun"
+        },
+        {
+            "question": "What type of noun is 'committee' in 'The committee has made its decision'?",
+            "options": [
+                "Common noun",
+                "Collective noun",
+                "Abstract noun",
+                "Proper noun"
+            ],
+            "reponse_correcte": "Collective noun"
+        },
+        {
+            "question": "In 'He has been working all day', what tense is the verb phrase?",
+            "options": [
+                "Present perfect",
+                "Present continuous",
+                "Present perfect continuous",
+                "Past perfect continuous"
+            ],
+            "reponse_correcte": "Present perfect continuous"
+        },
+        {
+            "question": "What type of adverb is 'usually' in 'She usually arrives early'?",
+            "options": [
+                "Adverb of manner",
+                "Adverb of frequency",
+                "Adverb of time",
+                "Adverb of place"
+            ],
+            "reponse_correcte": "Adverb of frequency"
+        },
+        {
+            "question": "Which preposition completes the phrase: 'We're running _____ time'?",
+            "options": [
+                "in",
+                "out of",
+                "with",
+                "through"
+            ],
+            "reponse_correcte": "out of"
+        },
+        {
+            "question": "What type of interjection expresses surprise: 'Wow! That's amazing!'?",
+            "options": [
+                "Greeting",
+                "Exclamation of surprise",
+                "Expression of pain",
+                "Call for attention"
+            ],
+            "reponse_correcte": "Exclamation of surprise"
+        },
+        {
+            "question": "In 'The old brown leather bag', what is the correct order of adjectives?",
+            "options": [
+                "Age, color, material",
+                "Color, age, material",
+                "Material, color, age",
+                "Age, material, color"
+            ],
+            "reponse_correcte": "Age, color, material"
+        },
+        {
+            "question": "What type of pronoun is 'each other' in 'They help each other'?",
+            "options": [
+                "Reflexive pronoun",
+                "Reciprocal pronoun",
+                "Indefinite pronoun",
+                "Relative pronoun"
+            ],
+            "reponse_correcte": "Reciprocal pronoun"
+        },
+        {
+            "question": "Identify the type of verb in: 'The sun appears to be setting'",
+            "options": [
+                "Action verb",
+                "Linking verb",
+                "Helper verb",
+                "Modal verb"
+            ],
+            "reponse_correcte": "Linking verb"
+        },
+        {
+            "question": "What kind of adverb is 'very' in 'She is very talented'?",
+            "options": [
+                "Adverb of manner",
+                "Adverb of degree",
+                "Adverb of frequency",
+                "Adverb of place"
+            ],
+            "reponse_correcte": "Adverb of degree"
+        },
+        {
+            "question": "Which noun is uncountable?",
+            "options": [
+                "Book",
+                "Information",
+                "Car",
+                "Dog"
+            ],
+            "reponse_correcte": "Information"
+        },
+        {
+            "question": "What type of preposition shows time in: 'The meeting is at 3 PM'?",
+            "options": [
+                "Preposition of place",
+                "Preposition of time",
+                "Preposition of direction",
+                "Preposition of manner"
+            ],
+            "reponse_correcte": "Preposition of time"
+        },
+        {
+            "question": "Which adjective is comparative in form?",
+            "options": [
+                "Good",
+                "Better",
+                "Best",
+                "Well"
+            ],
+            "reponse_correcte": "Better"
+        },
+        {
+            "question": "What type of pronoun is 'whose' in 'Whose book is this?'?",
+            "options": [
+                "Interrogative pronoun",
+                "Relative pronoun",
+                "Possessive pronoun",
+                "Personal pronoun"
+            ],
+            "reponse_correcte": "Interrogative pronoun"
+        },
+        {
+            "question": "In 'The cat chased the mouse', what type of verb is 'chased'?",
+            "options": [
+                "Linking verb",
+                "Action verb",
+                "Helping verb",
+                "Being verb"
+            ],
+            "reponse_correcte": "Action verb"
+        },
+        {
+            "question": "What type of adverb is 'here' in 'Put it here'?",
+            "options": [
+                "Adverb of time",
+                "Adverb of place",
+                "Adverb of manner",
+                "Adverb of degree"
+            ],
+            "reponse_correcte": "Adverb of place"
+        },
+        {
+            "question": "Which word is an interjection showing frustration?",
+            "options": [
+                "Hello",
+                "Ouch",
+                "Alas",
+                "Bravo"
+            ],
+            "reponse_correcte": "Alas"
+        },
+        {
+            "question": "What type of adjective is 'wooden' in 'wooden chair'?",
+            "options": [
+                "Descriptive adjective",
+                "Material adjective",
+                "Color adjective",
+                "Size adjective"
+            ],
+            "reponse_correcte": "Material adjective"
+        },
+        {
+            "question": "Which preposition completes: 'She's afraid ___ spiders'?",
+            "options": [
+                "of",
+                "from",
+                "with",
+                "by"
+            ],
+            "reponse_correcte": "of"
+        },
+        {
+            "question": "What type of noun is 'London' in 'London is beautiful'?",
+            "options": [
+                "Common noun",
+                "Proper noun",
+                "Collective noun",
+                "Abstract noun"
+            ],
+            "reponse_correcte": "Proper noun"
+        }
+    ]
+}

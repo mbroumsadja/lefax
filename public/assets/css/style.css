@@ -1,0 +1,70 @@
+
+*{
+   margin: 0;
+}
+body{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+}
+#container{
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem 2rem;
+    width: 90vw;
+}
+
+.question{
+    padding: 1rem;
+    border:none;
+    border-radius: 9px;
+    box-shadow: 0px 5px 10px gray ;
+    margin-bottom: 1rem;
+} 
+
+.para{
+    font-weight: 600;
+    margin-bottom: .5rem;
+}
+
+header button{
+margin-top: 1rem;
+margin-left: 150%;
+    border: none;
+    padding: .5rem 1rem;
+    font-size: 18px;
+    font-weight: 800;
+    color: white;
+    background-color: blue;
+    border-radius: 9px;
+    transition: all .002s ease;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+span{
+    font-size: 1.1rem;
+}
+
+label{
+    margin-left: .5rem;
+}
+input{
+    margin-right: 1rem;
+    width: 20px;
+    height: 20px;
+}
+#qcmForm button{
+    border: none;
+    padding: .5rem 1rem;
+    font-size: 18px;
+    font-weight: 800;
+    color: white;
+    border-radius: 9px;
+}

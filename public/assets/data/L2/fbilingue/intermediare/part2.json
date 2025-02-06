@@ -1,0 +1,204 @@
+{
+    "qcm": [
+        {
+            "question": "Which type of pronoun is used in: 'Sarah hurt herself while cooking'?",
+            "options": [
+                "Personal pronoun",
+                "Reflexive pronoun",
+                "Relative pronoun",
+                "Demonstrative pronoun"
+            ],
+            "reponse_correcte": "Reflexive pronoun"
+        },
+        {
+            "question": "What's the best tip for using pronouns in formal writing?",
+            "options": [
+                "Use 'they' for everything",
+                "Make sure the antecedent is clear",
+                "Avoid pronouns completely",
+                "Always use 'he/she'"
+            ],
+            "reponse_correcte": "Make sure the antecedent is clear"
+        },
+        {
+            "question": "Which type of noun is 'flock' in 'a flock of birds'?",
+            "options": [
+                "Common noun",
+                "Collective noun",
+                "Abstract noun",
+                "Proper noun"
+            ],
+            "reponse_correcte": "Collective noun"
+        },
+        {
+            "question": "What's the correct possessive pronoun in: 'That book is ___'?",
+            "options": [
+                "my",
+                "mine",
+                "me",
+                "myself"
+            ],
+            "reponse_correcte": "mine"
+        },
+        {
+            "question": "Which is an example of an abstract noun?",
+            "options": [
+                "Table",
+                "Happiness",
+                "London",
+                "Cat"
+            ],
+            "reponse_correcte": "Happiness"
+        },
+        {
+            "question": "What type of pronoun is 'who' in 'The person who called left a message'?",
+            "options": [
+                "Personal pronoun",
+                "Relative pronoun",
+                "Interrogative pronoun",
+                "Demonstrative pronoun"
+            ],
+            "reponse_correcte": "Relative pronoun"
+        },
+        {
+            "question": "Which is the correct way to use pronouns in business emails?",
+            "options": [
+                "Always use 'I' and 'me'",
+                "Be professional and clear about who 'you' refers to",
+                "Never use pronouns",
+                "Use only third person"
+            ],
+            "reponse_correcte": "Be professional and clear about who 'you' refers to"
+        },
+        {
+            "question": "What type of noun is 'team' when it refers to a group?",
+            "options": [
+                "Common noun",
+                "Collective noun",
+                "Abstract noun",
+                "Compound noun"
+            ],
+            "reponse_correcte": "Collective noun"
+        },
+        {
+            "question": "Which pronoun is correct: 'It was ___ who helped with the project'?",
+            "options": [
+                "I",
+                "me",
+                "mine",
+                "myself"
+            ],
+            "reponse_correcte": "I"
+        },
+        {
+            "question": "What's a good tip for using 'they' as a singular pronoun?",
+            "options": [
+                "Never use it",
+                "Use it only for groups",
+                "Use it when gender is unknown or irrelevant",
+                "Use it only in informal writing"
+            ],
+            "reponse_correcte": "Use it when gender is unknown or irrelevant"
+        },
+        {
+            "question": "Which type of noun is 'love' when referring to the emotion?",
+            "options": [
+                "Common noun",
+                "Abstract noun",
+                "Proper noun",
+                "Collective noun"
+            ],
+            "reponse_correcte": "Abstract noun"
+        },
+        {
+            "question": "What type of pronouns are 'this' and 'that'?",
+            "options": [
+                "Personal pronouns",
+                "Demonstrative pronouns",
+                "Relative pronouns",
+                "Possessive pronouns"
+            ],
+            "reponse_correcte": "Demonstrative pronouns"
+        },
+        {
+            "question": "How should you handle pronoun agreement with collective nouns?",
+            "options": [
+                "Always use 'they'",
+                "Always use 'it'",
+                "Depends if the group acts as one unit or individuals",
+                "Use both 'it' and 'they'"
+            ],
+            "reponse_correcte": "Depends if the group acts as one unit or individuals"
+        },
+        {
+            "question": "Which is an example of a compound noun?",
+            "options": [
+                "Cat",
+                "Happiness",
+                "Bookshelf",
+                "John"
+            ],
+            "reponse_correcte": "Bookshelf"
+        },
+        {
+            "question": "What type of pronouns show possession?",
+            "options": [
+                "my, mine, his, hers",
+                "I, you, he, she",
+                "this, that, these",
+                "who, whom, whose"
+            ],
+            "reponse_correcte": "my, mine, his, hers"
+        },
+        {
+            "question": "When using 'they' as a singular pronoun, what verb form should you use?",
+            "options": [
+                "Singular verb",
+                "Plural verb",
+                "Both are correct",
+                "Neither is correct"
+            ],
+            "reponse_correcte": "Plural verb"
+        },
+        {
+            "question": "What type of noun is 'furniture'?",
+            "options": [
+                "Count noun",
+                "Mass noun",
+                "Proper noun",
+                "Compound noun"
+            ],
+            "reponse_correcte": "Mass noun"
+        },
+        {
+            "question": "Which is the correct order for pronoun clarity?",
+            "options": [
+                "Use pronoun before introducing the noun",
+                "Introduce the noun before using its pronoun",
+                "Mix pronouns freely",
+                "Avoid all pronouns"
+            ],
+            "reponse_correcte": "Introduce the noun before using its pronoun"
+        },
+        {
+            "question": "What's the best way to handle pronoun confusion in complex sentences?",
+            "options": [
+                "Use more pronouns",
+                "Repeat the noun when needed for clarity",
+                "Remove all pronouns",
+                "Use only 'it'"
+            ],
+            "reponse_correcte": "Repeat the noun when needed for clarity"
+        },
+        {
+            "question": "Which is an example of a proper noun?",
+            "options": [
+                "city",
+                "Paris",
+                "happiness",
+                "group"
+            ],
+            "reponse_correcte": "Paris"
+        }
+    ]
+}

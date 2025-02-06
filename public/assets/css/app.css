@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+header{
+    width: 100%;
+    height: 7vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: rgb(0, 158, 179);
+    /* background: rgba(0, 0, 255, 0.123); */
+}
+h1{
+    margin-left: 1rem;
+}
+span{
+    color: rgb(0, 255, 242);
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.infographie{
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 20rem;
+    height: auto;
+    padding: 1rem ;
+    border-radius: 20px;
+    background: rgba(0, 140, 255, 0.281);
+}
+.fbilingue{
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 20rem;
+    height: auto;
+    padding: 1rem ;
+    border-radius: 20px;
+    background: rgba(165, 42, 42, 0.226);
+}
+.infographie h3{
+    margin-right: 9rem;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: system-ui;
+}
+
+.link{
+display: grid;
+grid-template-columns: repeat(2,1fr);
+gap: 10px;
+margin-top: 1rem;
+}
+
+.link a{
+    box-shadow: 0px 1px 2px black ;
+    background-color: wheat;
+    width: 9rem;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+}

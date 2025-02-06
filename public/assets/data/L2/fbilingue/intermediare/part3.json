@@ -1,0 +1,204 @@
+{
+    "qcm": [
+        {
+            "question": "Which sentence shows correct subject-verb agreement?",
+            "options": [
+                "The news are good",
+                "The news is good",
+                "The news were good",
+                "The news have been good"
+            ],
+            "reponse_correcte": "The news is good"
+        },
+        {
+            "question": "Which is a homonym (word with multiple meanings)?",
+            "options": [
+                "bear/bare",
+                "bank",
+                "write/right",
+                "too/two"
+            ],
+            "reponse_correcte": "bank"
+        },
+        {
+            "question": "Identify the word with a double consonant:",
+            "options": [
+                "begining",
+                "beginning",
+                "begining",
+                "begineing"
+            ],
+            "reponse_correcte": "beginning"
+        },
+        {
+            "question": "What's the antonym of 'generous'?",
+            "options": [
+                "kind",
+                "stingy",
+                "giving",
+                "helpful"
+            ],
+            "reponse_correcte": "stingy"
+        },
+        {
+            "question": "Which pair are homophones (sound the same)?",
+            "options": [
+                "meet/meat",
+                "book/look",
+                "cat/car",
+                "run/fun"
+            ],
+            "reponse_correcte": "meet/meat"
+        },
+        {
+            "question": "Which shows correct agreement with collective nouns?",
+            "options": [
+                "The class are noisy",
+                "The class is noisy",
+                "The class were noisy",
+                "The class have been noisy"
+            ],
+            "reponse_correcte": "The class is noisy"
+        },
+        {
+            "question": "What's a synonym for 'happy'?",
+            "options": [
+                "sad",
+                "joyful",
+                "angry",
+                "tired"
+            ],
+            "reponse_correcte": "joyful"
+        },
+        {
+            "question": "Which sentence follows the 'either/or' agreement rule?",
+            "options": [
+                "Either Tom or his friends is going",
+                "Either Tom or his friends are going",
+                "Either Tom or his friends goes",
+                "Either Tom or his friends been going"
+            ],
+            "reponse_correcte": "Either Tom or his friends are going"
+        },
+        {
+            "question": "Which word has multiple meanings (homonym)?",
+            "options": [
+                "pen",
+                "cat",
+                "dog",
+                "book"
+            ],
+            "reponse_correcte": "pen"
+        },
+        {
+            "question": "Identify the word with correct double consonant spelling:",
+            "options": [
+                "tommorrow",
+                "tomorrow",
+                "tomorow",
+                "tommorow"
+            ],
+            "reponse_correcte": "tomorrow"
+        },
+        {
+            "question": "Choose the pair of homophones:",
+            "options": [
+                "there/their/they're",
+                "cat/hat",
+                "run/fun",
+                "book/cook"
+            ],
+            "reponse_correcte": "there/their/they're"
+        },
+        {
+            "question": "Which shows correct agreement with uncountable nouns?",
+            "options": [
+                "The information are clear",
+                "The information is clear",
+                "The informations are clear",
+                "The informations is clear"
+            ],
+            "reponse_correcte": "The information is clear"
+        },
+        {
+            "question": "What's the antonym of 'brave'?",
+            "options": [
+                "cowardly",
+                "strong",
+                "fearless",
+                "bold"
+            ],
+            "reponse_correcte": "cowardly"
+        },
+        {
+            "question": "Find the synonym of 'big':",
+            "options": [
+                "small",
+                "tiny",
+                "large",
+                "little"
+            ],
+            "reponse_correcte": "large"
+        },
+        {
+            "question": "Which plural form follows special rules?",
+            "options": [
+                "cats",
+                "children",
+                "dogs",
+                "books"
+            ],
+            "reponse_correcte": "children"
+        },
+        {
+            "question": "Which word has correct double consonant spelling?",
+            "options": [
+                "necesary",
+                "necessary",
+                "necesery",
+                "neccesary"
+            ],
+            "reponse_correcte": "necessary"
+        },
+        {
+            "question": "Identify the homophone pair:",
+            "options": [
+                "pear/pair",
+                "cat/hat",
+                "dog/fog",
+                "run/sun"
+            ],
+            "reponse_correcte": "pear/pair"
+        },
+        {
+            "question": "Which shows correct subject-verb agreement with 'neither/nor'?",
+            "options": [
+                "Neither the dogs nor the cat are here",
+                "Neither the dogs nor the cat is here",
+                "Neither the dogs nor the cats is here",
+                "Neither the dog nor the cats are here"
+            ],
+            "reponse_correcte": "Neither the dogs nor the cat is here"
+        },
+        {
+            "question": "What's the synonym for 'small'?",
+            "options": [
+                "huge",
+                "tiny",
+                "giant",
+                "large"
+            ],
+            "reponse_correcte": "tiny"
+        },
+        {
+            "question": "Which is a homonym (same spelling, different meanings)?",
+            "options": [
+                "date (time/fruit)",
+                "their/there",
+                "run/ran",
+                "big/small"
+            ],
+            "reponse_correcte": "date (time/fruit)"
+        }
+    ]
+}

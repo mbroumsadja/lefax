@@ -1,0 +1,204 @@
+{
+    "qcm": [
+        {
+            "question": "Quelle marque est connue pour ses tablettes graphiques de haute qualité ?",
+            "options": [
+                "Dell",
+                "Wacom",
+                "Microsoft",
+                "Apple"
+            ],
+            "reponse_correcte": "Wacom"
+        },
+        {
+            "question": "Quel logiciel permet de créer des jeux vidéo et des animations ?",
+            "options": [
+                "Photoshop",
+                "Blender",
+                "Word",
+                "Excel"
+            ],
+            "reponse_correcte": "Blender"
+        },
+        {
+            "question": "Quel composant permet de stocker temporairement les données pendant le travail graphique ?",
+            "options": [
+                "Disque dur",
+                "Processeur",
+                "RAM",
+                "Carte graphique"
+            ],
+            "reponse_correcte": "RAM"
+        },
+        {
+            "question": "Quel logiciel d'Autodesk est utilisé dans le cinéma et les jeux vidéo ?",
+            "options": [
+                "Photoshop",
+                "Maya",
+                "AutoCAD",
+                "Illustrator"
+            ],
+            "reponse_correcte": "Maya"
+        },
+        {
+            "question": "Quel est le minimum recommandé de RAM pour les tâches d'infographie ?",
+            "options": [
+                "4 Go",
+                "8 Go",
+                "16 Go",
+                "32 Go"
+            ],
+            "reponse_correcte": "16 Go"
+        },
+        {
+            "question": "Quel type de technologie de rendu simule la lumière de manière réaliste ?",
+            "options": [
+                "Ray tracing",
+                "Pixel rendering",
+                "Vector graphics",
+                "Bitmap scaling"
+            ],
+            "reponse_correcte": "Ray tracing"
+        },
+        {
+            "question": "Quel logiciel est particulièrement utilisé pour la motion design ?",
+            "options": [
+                "Maya",
+                "Cinema 4D",
+                "ZBrush",
+                "Unreal Engine"
+            ],
+            "reponse_correcte": "Cinema 4D"
+        },
+        {
+            "question": "Quel est l'intérêt principal d'un SSD pour l'infographie ?",
+            "options": [
+                "Augmenter la RAM",
+                "Accélérer le chargement des fichiers",
+                "Améliorer le refroidissement",
+                "Réduire la consommation électrique"
+            ],
+            "reponse_correcte": "Accélérer le chargement des fichiers"
+        },
+        {
+            "question": "Quel logiciel est gratuit et open-source ?",
+            "options": [
+                "Maya",
+                "3ds Max",
+                "Blender",
+                "KeyShot"
+            ],
+            "reponse_correcte": "Blender"
+        },
+        {
+            "question": "Quel type de processeur est recommandé pour les calculs complexes ?",
+            "options": [
+                "Processeur mono-cœur",
+                "Processeur multicœur",
+                "Processeur graphique",
+                "Processeur mobile"
+            ],
+            "reponse_correcte": "Processeur multicœur"
+        },
+        {
+            "question": "Quel logiciel est spécialisé dans le rendu photoréaliste ?",
+            "options": [
+                "Unity",
+                "Blender",
+                "V-Ray",
+                "Cinema 4D"
+            ],
+            "reponse_correcte": "V-Ray"
+        },
+        {
+            "question": "Quel périphérique est utilisé pour capturer des visages ou des objets en 3D ?",
+            "options": [
+                "Webcam",
+                "Scanner 3D",
+                "Imprimante 3D",
+                "Tablette graphique"
+            ],
+            "reponse_correcte": "Scanner 3D"
+        },
+        {
+            "question": "Quel logiciel de rendu est initialement conçu pour les jeux vidéo ?",
+            "options": [
+                "V-Ray",
+                "KeyShot",
+                "Unreal Engine",
+                "3ds Max"
+            ],
+            "reponse_correcte": "Unreal Engine"
+        },
+        {
+            "question": "Quelle technique de rendu simule l'éclairage global ?",
+            "options": [
+                "Pixel shading",
+                "Global illumination",
+                "Vector rendering",
+                "Texture mapping"
+            ],
+            "reponse_correcte": "Global illumination"
+        },
+        {
+            "question": "Quel logiciel est utilisé pour la visualisation architecturale ?",
+            "options": [
+                "ZBrush",
+                "Maya",
+                "3ds Max",
+                "Blender"
+            ],
+            "reponse_correcte": "3ds Max"
+        },
+        {
+            "question": "Quel est le rôle principal d'un GPU dans l'infographie ?",
+            "options": [
+                "Gestion des fichiers",
+                "Traitement parallèle des calculs graphiques",
+                "Refroidissement du système",
+                "Stockage des données"
+            ],
+            "reponse_correcte": "Traitement parallèle des calculs graphiques"
+        },
+        {
+            "question": "Quel logiciel est connu pour ses capacités de rigging et d'animation avancées ?",
+            "options": [
+                "Blender",
+                "Maya",
+                "KeyShot",
+                "Unity"
+            ],
+            "reponse_correcte": "Maya"
+        },
+        {
+            "question": "Quel type de résolution d'écran est recommandé pour le travail graphique détaillé ?",
+            "options": [
+                "HD (1280x720)",
+                "Full HD (1920x1080)",
+                "4K ou plus",
+                "2K (2560x1440)"
+            ],
+            "reponse_correcte": "4K ou plus"
+        },
+        {
+            "question": "Quel logiciel permet de créer des environnements en temps réel ?",
+            "options": [
+                "V-Ray",
+                "Unreal Engine",
+                "KeyShot",
+                "Cinema 4D"
+            ],
+            "reponse_correcte": "Unreal Engine"
+        },
+        {
+            "question": "Quel est l'avantage principal de ZBrush ?",
+            "options": [
+                "Animation 2D",
+                "Sculpture numérique avec millions de polygones",
+                "Montage vidéo",
+                "Création de textures simples"
+            ],
+            "reponse_correcte": "Sculpture numérique avec millions de polygones"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "qcm": [
+        {
+            "question": "Which sentence shows correct subject-verb agreement with a collective noun?",
+            "options": [
+                "The team are playing today",
+                "The team is playing today",
+                "The team have playing today",
+                "The teams is playing today"
+            ],
+            "reponse_correcte": "The team is playing today"
+        },
+        {
+            "question": "Which is an example of a homophone (words that sound the same but have different spellings)?",
+            "options": [
+                "write/right",
+                "book/cook",
+                "cat/hat",
+                "run/running"
+            ],
+            "reponse_correcte": "write/right"
+        },
+        {
+            "question": "Identify the word with a double consonant:",
+            "options": [
+                "writen",
+                "written",
+                "writing",
+                "write"
+            ],
+            "reponse_correcte": "written"
+        },
+        {
+            "question": "What's the antonym of 'benevolent'?",
+            "options": [
+                "kind",
+                "malevolent",
+                "generous",
+                "charitable"
+            ],
+            "reponse_correcte": "malevolent"
+        },
+        {
+            "question": "Which word is a homonym (same spelling but multiple meanings)?",
+            "options": [
+                "there/their",
+                "bank",
+                "cat/hat",
+                "write/right"
+            ],
+            "reponse_correcte": "bank"
+        },
+        {
+            "question": "In 'Mathematics is my favorite subject', what type of noun is 'mathematics'?",
+            "options": [
+                "Plural noun",
+                "Singular noun treated as plural",
+                "Singular noun",
+                "Collective noun"
+            ],
+            "reponse_correcte": "Singular noun"
+        },
+        {
+            "question": "Which is a synonym for 'happy'?",
+            "options": [
+                "sad",
+                "joyful",
+                "angry",
+                "tired"
+            ],
+            "reponse_correcte": "joyful"
+        },
+        {
+            "question": "What's the correct subject-verb agreement: 'Either of the options ___ good.'?",
+            "options": [
+                "are",
+                "is",
+                "were",
+                "be"
+            ],
+            "reponse_correcte": "is"
+        },
+        {
+            "question": "Which pair shows a homophone relationship?",
+            "options": [
+                "peace/piece",
+                "happy/sad",
+                "run/walk",
+                "big/large"
+            ],
+            "reponse_correcte": "peace/piece"
+        },
+        {
+            "question": "Identify the word with a double consonant:",
+            "options": [
+                "hapily",
+                "happily",
+                "happy",
+                "hapyly"
+            ],
+            "reponse_correcte": "happily"
+        },
+        {
+            "question": "Which sentence shows correct agreement with compound subjects?",
+            "options": [
+                "Jack and Jill is going",
+                "Jack and Jill are going",
+                "Jack and Jill goes",
+                "Jack and Jill been going"
+            ],
+            "reponse_correcte": "Jack and Jill are going"
+        },
+        {
+            "question": "What's the antonym of 'verbose'?",
+            "options": [
+                "talkative",
+                "concise",
+                "lengthy",
+                "wordy"
+            ],
+            "reponse_correcte": "concise"
+        },
+        {
+            "question": "Which word is a homonym (multiple meanings)?",
+            "options": [
+                "bear",
+                "cat",
+                "door",
+                "table"
+            ],
+            "reponse_correcte": "bear"
+        },
+        {
+            "question": "Which pair represents correct subject-verb agreement with 'neither/nor'?",
+            "options": [
+                "Neither he nor I are going",
+                "Neither he nor I is going",
+                "Neither he nor I am going",
+                "Neither he nor I were going"
+            ],
+            "reponse_correcte": "Neither he nor I am going"
+        },
+        {
+            "question": "Identify the homophone pair:",
+            "options": [
+                "their/there/they're",
+                "cat/bat",
+                "run/ran",
+                "happy/sad"
+            ],
+            "reponse_correcte": "their/there/they're"
+        },
+        {
+            "question": "Which word contains a double consonant?",
+            "options": [
+                "necesary",
+                "necessary",
+                "necesery",
+                "neccesary"
+            ],
+            "reponse_correcte": "necessary"
+        },
+        {
+            "question": "What's the synonym for 'brave'?",
+            "options": [
+                "cowardly",
+                "courageous",
+                "fearful",
+                "timid"
+            ],
+            "reponse_correcte": "courageous"
+        },
+        {
+            "question": "Which sentence shows correct agreement with uncountable nouns?",
+            "options": [
+                "The furniture are new",
+                "The furniture is new",
+                "The furnitures is new",
+                "The furnitures are new"
+            ],
+            "reponse_correcte": "The furniture is new"
+        },
+        {
+            "question": "Which is a homonym (same spelling, different meanings)?",
+            "options": [
+                "rose (flower)/rose (past of rise)",
+                "there/their",
+                "happy/sad",
+                "big/small"
+            ],
+            "reponse_correcte": "rose (flower)/rose (past of rise)"
+        },
+        {
+            "question": "In which word is the double consonant spelling correct?",
+            "options": [
+                "tommorrow",
+                "tomorrow",
+                "tomorow",
+                "tommorow"
+            ],
+            "reponse_correcte": "tomorrow"
+        }
+    ]
+}

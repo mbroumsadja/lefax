@@ -1,0 +1,204 @@
+{
+    "qcm": [
+        {
+            "question": "In the sentence 'She quickly ran to the store', which word is a pronoun?",
+            "options": [
+                "quickly",
+                "ran",
+                "She",
+                "store"
+            ],
+            "reponse_correcte": "She"
+        },
+        {
+            "question": "What type of word is 'beautiful' in the sentence 'The beautiful flower bloomed'?",
+            "options": [
+                "Noun",
+                "Verb",
+                "Adjective",
+                "Adverb"
+            ],
+            "reponse_correcte": "Adjective"
+        },
+        {
+            "question": "Identify the preposition in: 'The cat jumped over the fence'",
+            "options": [
+                "cat",
+                "jumped",
+                "over",
+                "fence"
+            ],
+            "reponse_correcte": "over"
+        },
+        {
+            "question": "Which word is an interjection in: 'Wow! That's amazing!'?",
+            "options": [
+                "That's",
+                "Wow",
+                "amazing",
+                "None of the above"
+            ],
+            "reponse_correcte": "Wow"
+        },
+        {
+            "question": "What is the verb in: 'The children play in the park'?",
+            "options": [
+                "children",
+                "play",
+                "park",
+                "the"
+            ],
+            "reponse_correcte": "play"
+        },
+        {
+            "question": "Identify the adverb in: 'He speaks softly but clearly'",
+            "options": [
+                "He",
+                "speaks",
+                "softly",
+                "but"
+            ],
+            "reponse_correcte": "softly"
+        },
+        {
+            "question": "Which word is a noun in: 'The dog chased the ball'?",
+            "options": [
+                "The",
+                "chased",
+                "ball",
+                "the"
+            ],
+            "reponse_correcte": "ball"
+        },
+        {
+            "question": "In 'They went to the movies', which word is a pronoun?",
+            "options": [
+                "went",
+                "to",
+                "They",
+                "movies"
+            ],
+            "reponse_correcte": "They"
+        },
+        {
+            "question": "What type of word is 'under' in: 'The toy is under the table'?",
+            "options": [
+                "Noun",
+                "Preposition",
+                "Verb",
+                "Adjective"
+            ],
+            "reponse_correcte": "Preposition"
+        },
+        {
+            "question": "Identify the adjective: 'The tall giraffe ate leaves'",
+            "options": [
+                "The",
+                "tall",
+                "ate",
+                "leaves"
+            ],
+            "reponse_correcte": "tall"
+        },
+        {
+            "question": "Which is an interjection in: 'Ouch! I hurt my toe'?",
+            "options": [
+                "I",
+                "hurt",
+                "Ouch",
+                "toe"
+            ],
+            "reponse_correcte": "Ouch"
+        },
+        {
+            "question": "What is the adverb in: 'She sang beautifully'?",
+            "options": [
+                "She",
+                "sang",
+                "beautifully",
+                "None of the above"
+            ],
+            "reponse_correcte": "beautifully"
+        },
+        {
+            "question": "In 'The old man walks slowly', which word is a verb?",
+            "options": [
+                "old",
+                "man",
+                "walks",
+                "slowly"
+            ],
+            "reponse_correcte": "walks"
+        },
+        {
+            "question": "Identify the pronoun: 'It was raining outside'",
+            "options": [
+                "was",
+                "It",
+                "raining",
+                "outside"
+            ],
+            "reponse_correcte": "It"
+        },
+        {
+            "question": "What type of word is 'through' in: 'We walked through the forest'?",
+            "options": [
+                "Verb",
+                "Noun",
+                "Preposition",
+                "Adverb"
+            ],
+            "reponse_correcte": "Preposition"
+        },
+        {
+            "question": "Which word is a noun in: 'The teacher wrote on the board'?",
+            "options": [
+                "wrote",
+                "teacher",
+                "on",
+                "the"
+            ],
+            "reponse_correcte": "teacher"
+        },
+        {
+            "question": "Identify the adjective: 'The new car is red'",
+            "options": [
+                "The",
+                "new",
+                "car",
+                "is"
+            ],
+            "reponse_correcte": "new"
+        },
+        {
+            "question": "What is the adverb in: 'He carefully opened the door'?",
+            "options": [
+                "He",
+                "carefully",
+                "opened",
+                "door"
+            ],
+            "reponse_correcte": "carefully"
+        },
+        {
+            "question": "Which is an interjection in: 'Hey! Watch where you're going!'?",
+            "options": [
+                "Watch",
+                "where",
+                "Hey",
+                "going"
+            ],
+            "reponse_correcte": "Hey"
+        },
+        {
+            "question": "In 'The bird flies above the trees', what is the preposition?",
+            "options": [
+                "bird",
+                "flies",
+                "above",
+                "trees"
+            ],
+            "reponse_correcte": "above"
+        }
+    ]
+}

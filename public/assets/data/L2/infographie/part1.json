@@ -1,0 +1,205 @@
+{
+ "qcm": [
+ {
+           "question": "Quel composant est particulièrement efficace pour le traitement parallèle des calculs d'images et de vidéos ?",
+           "options": [
+               "CPU",
+               "GPU",
+               "RAM",
+               "Disque dur"
+           ],
+           "reponse_correcte": "GPU"
+       },
+       {
+           "question": "Quelle quantité de RAM est recommandée comme idéale pour les tâches d'infographie ?",
+           "options": [
+               "8 Go",
+               "16 Go",
+               "32 Go ou plus",
+               "4 Go"
+           ],
+           "reponse_correcte": "32 Go ou plus"
+       },
+       {
+           "question": "Quel type de stockage offre des vitesses de lecture et d'écriture plus rapides que les disques durs traditionnels ?",
+           "options": [
+               "HDD",
+               "SSD",
+               "Disque optique",
+               "Disque réseau"
+           ],
+           "reponse_correcte": "SSD"
+       },
+       {
+           "question": "Quel logiciel open-source est populaire pour la modélisation 3D et l'animation ?",
+           "options": [
+               "Maya",
+               "Photoshop",
+               "Blender",
+               "Word"
+           ],
+           "reponse_correcte": "Blender"
+       },
+       {
+           "question": "Quel périphérique permet de dessiner directement sur une surface interactive avec un stylet ?",
+           "options": [
+               "Scanner 3D",
+               "Tablette graphique",
+               "Écran tactile",
+               "Souris"
+           ],
+           "reponse_correcte": "Tablette graphique"
+       },
+       {
+           "question": "Quel logiciel est spécialisé dans la sculpture numérique avec des millions de polygones ?",
+           "options": [
+               "Maya",
+               "Blender",
+               "ZBrush",
+               "Cinema 4D"
+           ],
+           "reponse_correcte": "ZBrush"
+       },
+       {
+           "question": "Quel est le rôle principal du CPU dans les tâches d'infographie ?",
+           "options": [
+               "Rendu graphique",
+               "Gestion des tâches générales de calcul",
+               "Création de textures",
+               "Stockage des données"
+           ],
+           "reponse_correcte": "Gestion des tâches générales de calcul"
+       },
+       {
+           "question": "Quel logiciel de rendu est initialement développé pour les jeux vidéo mais utilisé dans divers secteurs ?",
+           "options": [
+               "V-Ray",
+               "Unity",
+               "Unreal Engine",
+               "3ds Max"
+           ],
+           "reponse_correcte": "Unreal Engine"
+       },
+       {
+           "question": "Quelle résolution d'écran est recommandée pour travailler avec des images détaillées ?",
+           "options": [
+               "HD (1080p)",
+               "4K ou plus",
+               "720p",
+               "2K"
+           ],
+           "reponse_correcte": "4K ou plus"
+       },
+       {
+           "question": "Quel périphérique permet de numériser des objets physiques en modèles 3D ?",
+           "options": [
+               "Tablette graphique",
+               "Scanner 3D",
+               "Webcam",
+               "Imprimante 3D"
+           ],
+           "reponse_correcte": "Scanner 3D"
+       },
+       {
+           "question": "Quel est l'avantage principal des GPU NVIDIA et AMD pour l'infographie ?",
+           "options": [
+               "Stockage de données",
+               "Traitement parallèle des calculs graphiques",
+               "Refroidissement du système",
+               "Gestion de la mémoire"
+           ],
+           "reponse_correcte": "Traitement parallèle des calculs graphiques"
+       },
+       {
+           "question": "Quel logiciel est particulièrement utilisé dans l'architecture et les effets visuels ?",
+           "options": [
+               "Blender",
+               "Photoshop",
+               "3ds Max",
+               "ZBrush"
+           ],
+           "reponse_correcte": "3ds Max"
+       },
+       {
+           "question": "Quel moteur de rendu est connu pour ses algorithmes avancés de lumière globale ?",
+           "options": [
+               "Unity",
+               "KeyShot",
+               "V-Ray",
+               "Cinema 4D"
+           ],
+           "reponse_correcte": "V-Ray"
+       },
+       {
+           "question": "Quel logiciel est apprécié pour sa facilité d'apprentissage et ses capacités d'animation ?",
+           "options": [
+               "Maya",
+               "ZBrush",
+               "Cinema 4D",
+               "Blender"
+           ],
+           "reponse_correcte": "Cinema 4D"
+       },
+       {
+           "question": "Quelle marque de processeur est recommandée pour les tâches de calcul intensif ?",
+           "options": [
+               "AMD Athlon",
+               "Intel Celeron",
+               "Intel Core i7/i9 ou AMD Ryzen",
+               "ARM Processor"
+           ],
+           "reponse_correcte": "Intel Core i7/i9 ou AMD Ryzen"
+       },
+       {
+           "question": "Quel type d'écran permet de dessiner directement dessus ?",
+           "options": [
+               "Écran LCD standard",
+               "Écran de stylisation (comme Wacom Cintiq)",
+               "Écran OLED",
+               "Écran incurvé"
+           ],
+           "reponse_correcte": "Écran de stylisation (comme Wacom Cintiq)"
+       },
+       {
+           "question": "Quel logiciel est un standard de l'industrie pour la modélisation et l'animation 3D ?",
+           "options": [
+               "Blender",
+               "Maya",
+               "KeyShot",
+               "Unity"
+           ],
+           "reponse_correcte": "Maya"
+       },
+       {
+           "question": "Quel logiciel de rendu se concentre sur la simplicité et la vitesse ?",
+           "options": [
+               "V-Ray",
+               "Unreal Engine",
+               "KeyShot",
+               "3ds Max"
+           ],
+           "reponse_correcte": "KeyShot"
+       },
+       {
+           "question": "Quel est l'intérêt principal d'une tablette graphique ?",
+           "options": [
+               "Stockage de données",
+               "Navigation web",
+               "Dessin avec sensibilité à la pression",
+               "Jeux vidéo"
+           ],
+           "reponse_correcte": "Dessin avec sensibilité à la pression"
+       },
+       {
+           "question": "Quel logiciel est populaire pour le développement de jeux vidéo et la réalité augmentée ?",
+           "options": [
+               "Maya",
+               "Blender",
+               "Unity",
+               "ZBrush"
+           ],
+           "reponse_correcte": "Unity"
+       }
+    
+ ]
+}

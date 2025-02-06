@@ -1,0 +1,204 @@
+{
+    "qcm": [
+        {
+            "question": "Which type of noun is 'happiness' in English?",
+            "options": [
+                "Common noun",
+                "Abstract noun",
+                "Collective noun",
+                "Proper noun"
+            ],
+            "reponse_correcte": "Abstract noun"
+        },
+        {
+            "question": "In the sentence 'The team is playing well', what type of noun is 'team'?",
+            "options": [
+                "Abstract noun",
+                "Collective noun",
+                "Common noun",
+                "Proper noun"
+            ],
+            "reponse_correcte": "Collective noun"
+        },
+        {
+            "question": "What type of pronoun is 'myself' in 'I did it myself'?",
+            "options": [
+                "Personal pronoun",
+                "Reflexive pronoun",
+                "Possessive pronoun",
+                "Relative pronoun"
+            ],
+            "reponse_correcte": "Reflexive pronoun"
+        },
+        {
+            "question": "Which is the correct possessive pronoun to complete: 'That book is ___'?",
+            "options": [
+                "my",
+                "mine",
+                "me",
+                "myself"
+            ],
+            "reponse_correcte": "mine"
+        },
+        {
+            "question": "What type of noun is 'Paris' in English grammar?",
+            "options": [
+                "Common noun",
+                "Proper noun",
+                "Collective noun",
+                "Abstract noun"
+            ],
+            "reponse_correcte": "Proper noun"
+        },
+        {
+            "question": "Which pronoun is a demonstrative pronoun?",
+            "options": [
+                "she",
+                "this",
+                "who",
+                "mine"
+            ],
+            "reponse_correcte": "this"
+        },
+        {
+            "question": "In the sentence 'Who left their book?', what type of pronoun is 'their'?",
+            "options": [
+                "Personal pronoun",
+                "Possessive pronoun",
+                "Demonstrative pronoun",
+                "Interrogative pronoun"
+            ],
+            "reponse_correcte": "Possessive pronoun"
+        },
+        {
+            "question": "What is the best tip for using pronouns in formal writing?",
+            "options": [
+                "Always use 'they' instead of 'he/she'",
+                "Ensure clear antecedent reference",
+                "Avoid pronouns completely",
+                "Use only personal pronouns"
+            ],
+            "reponse_correcte": "Ensure clear antecedent reference"
+        },
+        {
+            "question": "Which type of noun is 'flock' in 'a flock of birds'?",
+            "options": [
+                "Common noun",
+                "Abstract noun",
+                "Collective noun",
+                "Proper noun"
+            ],
+            "reponse_correcte": "Collective noun"
+        },
+        {
+            "question": "What type of pronoun is 'which' in 'The book, which was old, fell apart'?",
+            "options": [
+                "Personal pronoun",
+                "Relative pronoun",
+                "Demonstrative pronoun",
+                "Interrogative pronoun"
+            ],
+            "reponse_correcte": "Relative pronoun"
+        },
+        {
+            "question": "When using pronouns in academic writing, what's the most important rule?",
+            "options": [
+                "Always use 'I'",
+                "Never use 'I'",
+                "Maintain consistency in person and number",
+                "Use only third person"
+            ],
+            "reponse_correcte": "Maintain consistency in person and number"
+        },
+        {
+            "question": "What type of pronouns are 'few', 'many', 'several'?",
+            "options": [
+                "Personal pronouns",
+                "Indefinite pronouns",
+                "Demonstrative pronouns",
+                "Relative pronouns"
+            ],
+            "reponse_correcte": "Indefinite pronouns"
+        },
+        {
+            "question": "What's the correct pronoun usage in: '_____ gave the presentation yesterday'?",
+            "options": [
+                "Him",
+                "His",
+                "He",
+                "Himself"
+            ],
+            "reponse_correcte": "He"
+        },
+        {
+            "question": "Which type of noun is 'love' when referring to the emotion?",
+            "options": [
+                "Common noun",
+                "Abstract noun",
+                "Proper noun",
+                "Collective noun"
+            ],
+            "reponse_correcte": "Abstract noun"
+        },
+        {
+            "question": "What's a key tip for using relative pronouns?",
+            "options": [
+                "Always use 'that'",
+                "Never use 'which'",
+                "Choose 'who' for people and 'that/which' for things",
+                "Avoid them completely"
+            ],
+            "reponse_correcte": "Choose 'who' for people and 'that/which' for things"
+        },
+        {
+            "question": "What type of noun is 'furniture'?",
+            "options": [
+                "Count noun",
+                "Mass noun",
+                "Proper noun",
+                "Abstract noun"
+            ],
+            "reponse_correcte": "Mass noun"
+        },
+        {
+            "question": "Which pronoun is correct in: 'It was ___ who called'?",
+            "options": [
+                "they",
+                "them",
+                "their",
+                "he"
+            ],
+            "reponse_correcte": "he"
+        },
+        {
+            "question": "What's the best practice for using pronouns in business writing?",
+            "options": [
+                "Use only 'I'",
+                "Avoid pronouns entirely",
+                "Be clear and specific with antecedents",
+                "Use only third person"
+            ],
+            "reponse_correcte": "Be clear and specific with antecedents"
+        },
+        {
+            "question": "Which is an example of a reciprocal pronoun?",
+            "options": [
+                "myself",
+                "each other",
+                "whoever",
+                "they"
+            ],
+            "reponse_correcte": "each other"
+        },
+        {
+            "question": "What type of noun is 'crowd' in 'The crowd cheered'?",
+            "options": [
+                "Abstract noun",
+                "Common noun",
+                "Collective noun",
+                "Proper noun"
+            ],
+            "reponse_correcte": "Collective noun"
+        }
+    ]
+}
