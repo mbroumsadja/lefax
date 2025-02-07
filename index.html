@@ -86,5 +86,37 @@
         </div>
     </section>
     <button type="button" class="add-button">installer</button>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const modal = document.createElement('div');
+        modal.style.position = 'fixed';
+        modal.style.top = '0';
+        modal.style.left = '0';
+        modal.style.width = '100%';
+        modal.style.height = '100%';
+        modal.style.backgroundColor = 'rgba(0, 0, 0, 0.8)';
+        modal.style.display = 'flex';
+        modal.style.justifyContent = 'center';
+        modal.style.alignItems = 'center';
+        modal.style.zIndex = '1000';
+
+        const modalContent = document.createElement('div');
+        modalContent.style.backgroundColor = 'white';
+        modalContent.style.padding = '2rem';
+        modalContent.style.borderRadius = '10px';
+        modalContent.style.textAlign = 'center';
+        modalContent.innerHTML = `
+            <p>Bienvenue! Ce projet est un site statique qui propose des quiz pour permettre aux étudiants de réviser leurs cours. Les quiz couvrent une variété de sujets académiques et sont conçus pour aider les étudiants à tester leurs connaissances et à se préparer pour leurs examens.</p>
+            <button id="continue-button" style="margin-top: 1rem; padding: 0.5rem 1rem; background-color: black; color: white; border: none; border-radius: 5px;">Continuer</button>
+        `;
+
+        modal.appendChild(modalContent);
+        document.body.appendChild(modal);
+
+        document.getElementById('continue-button').addEventListener('click', function() {
+            modal.style.display = 'none';
+        });
+    });
+    </script>
 </body>
 </html>
