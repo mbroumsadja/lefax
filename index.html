@@ -1,12 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" translate="no" class="notranslate">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/public/assets/css/app.css">
     <link rel="manifest" href="/public/assets/js/manifest.webmanifest">
     <link rel="shortcut icon" href="/public/icon/logo.png" type="image/x-icon">
+    <meta name="google" content="notranslate">
     <script src="/public/assets/js/index.js" defer></script>
+    <script>
+        function disableTranslation() {
+            document.body.classList.add('notranslate');
+            document.addEventListener('keydown', function(event) {
+                if (event.ctrlKey && event.shiftKey && event.key === 'T') {
+                    event.preventDefault();
+                }
+            });
+            document.documentElement.lang = 'en';
+        }
+        
+        window.onload = function() {
+            disableTranslation();
+            setInterval(disableTranslation, 1000);
+        };
+    </script>
     <title>LEFAX</title>
     <style>
        h3 span{

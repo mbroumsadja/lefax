@@ -1,11 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" translate="no">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/public/assets//css/style.css">
     <title>LE FAX</title>
+    <script>
+        function disableTranslation() {
+            document.body.classList.add('notranslate');
+            document.addEventListener('keydown', function(event) {
+                if (event.ctrlKey && event.shiftKey && event.key === 'T') {
+                    event.preventDefault();
+                }
+            });
+            document.documentElement.lang = 'en';
+        }
+        
+        window.onload = function() {
+            disableTranslation();
+            setInterval(disableTranslation, 1000);
+        };
+    </script>
     <style>
         header button {
             background-color: rgb(216, 6, 223);;

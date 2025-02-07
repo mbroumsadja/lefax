@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" translate="no">
 
 <head>
     <meta charset="UTF-8">
@@ -32,6 +32,22 @@
             border-radius: 9px;
         }
     </style>
+        <script>
+            function disableTranslation() {
+                document.body.classList.add('notranslate');
+                document.addEventListener('keydown', function(event) {
+                    if (event.ctrlKey && event.shiftKey && event.key === 'T') {
+                        event.preventDefault();
+                    }
+                });
+                document.documentElement.lang = 'en';
+            }
+            
+            window.onload = function() {
+                disableTranslation();
+                setInterval(disableTranslation, 1000);
+            };
+        </script>
 </head>
 
 <body>
