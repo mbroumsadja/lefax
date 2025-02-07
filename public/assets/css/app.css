@@ -7,6 +7,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    gap: 1rem;
 }
 header{
     width: 100%;
@@ -74,4 +75,34 @@ margin-top: 1rem;
     border-radius: 10px;
     color: black;
     text-decoration: none;
+}
+
+
+/* Style du tableau des scores sur la page d'accueil */
+.high-scores {
+    margin: 2rem auto;
+    max-width: 800px;
+    padding: 1.5rem;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.scores-container {
+    display: grid;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+.score-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    transition: transform 0.2s;
+}
+.score-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }

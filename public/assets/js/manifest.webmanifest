@@ -1,0 +1,15 @@
+{
+  "background_color": "#800080",
+  "description": "Le Fax Quiz App pour réviser les séances de cours",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "/public/icon/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Le Fax",
+  "short_name": "LeFax",
+  "start_url": "/index.html"
+}

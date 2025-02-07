@@ -1,4 +1,5 @@
 let data = null;
+
 fetch(`/public/assets/data/L2/fbilingue/intermediare/part2.json`)
   .then(response => {
     if (!response.ok) {
@@ -7,9 +8,10 @@ fetch(`/public/assets/data/L2/fbilingue/intermediare/part2.json`)
     return response.json();
   })
   .then(jsonData => {
-    data = jsonData; 
+    data = jsonData;
+    
     const container = document.getElementById('container');
-
+    
     data.qcm.forEach((q, index) => {
       const questionDiv = document.createElement('div');
       questionDiv.classList.add('question');
@@ -43,7 +45,7 @@ fetch(`/public/assets/data/L2/fbilingue/intermediare/part2.json`)
 const form = document.getElementById('qcmForm');
 form.addEventListener('submit', event => {
   event.preventDefault();
-
+  
   if (!data) {
     console.error('Les données du QCM ne sont pas encore chargées.');
     return;
@@ -51,35 +53,59 @@ form.addEventListener('submit', event => {
 
   const formData = new FormData(event.target);
   const answers = {};
-  for (const [key, value] of formData.entries()) {
-    answers[key] = value;
-  }
-  const container = document.getElementById('container');
+  let score = 0;
+  let totalQuestions = data.qcm.length;
+  
   data.qcm.forEach((q, index) => {
-    const userAnswer = answers[`question_${index}`];
+    const userAnswer = formData.get(`question_${index}`);
     const correctAnswer = q.reponse_correcte;
+    
+    if (userAnswer === correctAnswer) {
+      score++;
+    }
 
     const questionDiv = container.children[index];
     const options = questionDiv.querySelectorAll('input');
 
     options.forEach(option => {
       const label = option.parentElement;
+      option.disabled = true;
+      
       if (option.value === correctAnswer) {
-
         label.style.color = 'green';
         label.style.fontWeight = 900;
         label.style.fontFamily = "system-ui";
-        label.style.fontSize = "16px"
-
+        label.style.fontSize = "16px";
       } else if (option.checked && option.value !== correctAnswer) {
- 
         label.style.color = 'red';
         label.style.fontWeight = 900;
         label.style.fontFamily = "system-ui";
-        label.style.fontSize = "16px"
+        label.style.fontSize = "16px";
       } else {
         label.style.color = 'black';
       }
     });
   });
+
+  const percentage = (score / totalQuestions) * 100;
+
+  let message = `Score final: ${score}/${totalQuestions}\n`;
+  message += `Pourcentage de réussite: ${percentage.toFixed(1)}%\n\n`;
+
+  if (percentage === 100) {
+    message += "Parfait ! Excellent travail !";
+  } else if (percentage >= 80) {
+    message += "Très bien ! Continue comme ça !";
+  } else if (percentage >= 60) {
+    message += "Pas mal ! Mais il y a encore de la place pour s'améliorer.";
+  } else if (percentage >= 40) {
+    message += "Continue tes efforts ! Une révision serait bénéfique.";
+  } else {
+    message += "N'hésite pas à revoir le cours et réessayer !";
+  }
+
+  alert(message);
+
+  document.querySelector('button[type="submit"]').disabled = true;
 });
+

@@ -4,10 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/public/assets/css/app.css">
+    <link rel="manifest" href="/public/assets/js/manifest.webmanifest">
+    <link rel="shortcut icon" href="/public/icon/logo.png" type="image/x-icon">
+    <script src="/public/assets/js/index.js" defer></script>
     <title>LEFAX</title>
     <style>
-        span{
-            color: green;
+       h3 span{
+            color: rgb(28, 161, 28);
+            font-size: 1.5rem;
+            text-transform: uppercase;
+        }
+        .add-button{
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            padding:  .2rem 1rem;
+            font-family: 'Times New Roman', Times, serif;
+            color: rgb(0, 195, 255);
+            background-color: black;
+            border: none;
+            border-radius: 5px;
+            letter-spacing: 1px;
         }
     </style>
 </head>
@@ -17,22 +34,23 @@
     </header>
     <section class="fbilingue">
         <h3>
-            Formation bilingue <span style="color: orange;; font-weight: 500;">intermediare</span>
-        </h3>
-        <div class="link">
-            <a href="/public/pages/fbilingue//intemediare/fbilingue1.html">DAYS 1</a>
-            <a href="/public/pages/fbilingue/intemediare/fbilingue2.html">DAYS 2</a>
-            <a href="/public/pages/fbilingue/intemediare/fbilingue3.html">DAYS 3</a>
-        </div>
-    </section>
-    <section class="fbilingue">
-        <h3>
-            Formation bilingue <span>Debutant</span>
+            <span>Debutant</span> <br>Formation bilingue
         </h3>
         <div class="link">
             <a href="/public/pages/fbilingue/fbilingue1.html">DAYS 1</a>
             <a href="/public/pages/fbilingue/fbilingue2.html">DAYS 2</a>
             <a href="/public/pages/fbilingue/fbilingue3.html">DAYS 3</a>
+        </div>
+    </section>
+    <section class="fbilingue">
+        <h3>
+            <span style="color: rgb(158, 5, 5);; font-weight: 500;font-size: 1.5rem; text-transform: uppercase;">intermediare</span><br>
+            Formation bilingue 
+        </h3>
+        <div class="link">
+            <a href="/public/pages/fbilingue//intemediare/fbilingue1.html">DAYS 1</a>
+            <a href="/public/pages/fbilingue/intemediare/fbilingue2.html">DAYS 2</a>
+            <a href="/public/pages/fbilingue/intemediare/fbilingue3.html">DAYS 3</a>
         </div>
     </section>
     <section class="infographie">
@@ -44,5 +62,12 @@
             <a href="/public/pages/infographie/infographie2.html">DAYS 2</a>
         </div>
     </section>
+
+    <section class="high-scores">
+        <h3>Tableau des Meilleurs Scores</h3>
+        <div class="scores-container">
+        </div>
+    </section>
+    <button type="button" class="add-button">installer</button>
 </body>
 </html>
